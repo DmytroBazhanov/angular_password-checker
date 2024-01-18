@@ -10,6 +10,9 @@
           "style": "scss",
           "flat": false,
           "path": "src/app/components"
+        },
+        "@schematics/angular:service": {
+          "path": "src/app/core/services"
         }
       },
       "root": "",
